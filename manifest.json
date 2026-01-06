@@ -1,0 +1,33 @@
+{
+  "name": "Adegan Global Enterprise",
+  "short_name": "Adegan",
+  "description": "Your Complete Business Solution - Digital Marketing, Web Design, Engineering, Trading, and More",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#1a1a2e",
+  "theme_color": "#1a1a2e",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "279c8cd4e9727b46d248597f9c7f4683_0.jpeg",
+      "sizes": "192x192",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "279c8cd4e9727b46d248597f9c7f4683_0.jpeg",
+      "sizes": "512x512",
+      "type": "image/jpeg",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["business", "finance", "productivity"],
+  "screenshots": [
+    {
+      "src": "279c8cd4e9727b46d248597f9c7f4683_0.jpeg",
+      "sizes": "1280x720",
+      "type": "image/jpeg",
+      "form_factor": "wide"
+    }
+  ]
+}
